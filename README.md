@@ -2,6 +2,7 @@
 
 ## Learning Goals
 
+
 - Practice reading tests and test errors
 - Practice writing functions
 - Learn how to use JavaScript's `toUpperCase()` and `toLowerCase()` methods
